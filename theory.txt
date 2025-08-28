@@ -1,0 +1,24 @@
+
+
+====Website Basic Structure=====
+
+1.Header
+2.Body(Content)
+3.Footer
+ <!-- tr tag start for Header -->
+  <!-- Center tag use for all content show at center -->
+
+  <!-- a ankor tag use for link up any link with website -->
+                 <!-- In a tag use target atribute for click link menu and link open in new window -->
+
+
+<!-- tr tag start for Header Headline-->
+        <!-- in td tag style atribute use for change background colour -->
+
+
+<!-- tr tag start for Body/content part -->
+
+
+
+
+<!-- tr tag start for Footer -->
